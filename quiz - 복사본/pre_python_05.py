@@ -16,10 +16,3 @@
 5 * 9 = 45
 
 """
-
-a=int(input("출력할 단을 입력해주세요 : "))
-for i in range(9):
-    an=(i+1)*a
-    print('{} * {} = {}'.format(a,i+1,an))
-
-

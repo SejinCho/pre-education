@@ -9,9 +9,3 @@ print(Triangle(10,20))
 100
 
 """
-def Triangle(W,H):
-    A=W*H*0.5
-    print(A)
-
-
-Triangle(3,4)
